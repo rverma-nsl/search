@@ -2,7 +2,7 @@ keras
 numpy
 cryptography
 aiofiles
-pillow==8.3.2
+pillow==9.0.1
 sentence-transformers==2.0.0
 pymilvus==2.0.0rc7
 tensorflow==2.4.3
